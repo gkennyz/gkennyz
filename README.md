@@ -1,25 +1,14 @@
-## Darkshima! ★ 🥋
-👋 Hello World, i'm **Darkshima**! I'm just a guy who loves T.I. in general.   
-🔩 **Begginer** in the world of programming.  
-📕 I'm currently started learning: **Pyhton** !
+# Hi, I'm Gabriel Kennedy 👋
+**Computer Science** student, Linux and Cybersecurity enthusiast
 
-### 🖥️ Linux User
-- **Distro:** Fedora
-- **DE:** Gnome
-- **Coding:** VSCode
+## About me
+- I use and configure Linux in my daily life
+- Studying Cybersecurity
+- English B1, Spanish A2 and currently learning Japanese
 
-❌ **Error 404**, that's all, i don't have much things to add here at the moment...
-<!--
-**darrkzz/darrkzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
+- **[Hyprland Dotfiles](https://github.com/gkennyz/hyprland-dotfiles)**: my Linux desktop setup with Hyprland
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- LinkedIn: [linkedin.com/in/gbkennedy](https://linkedin.com/in/gbkennedy)
+- Email: contato.gabrielk@proton.me

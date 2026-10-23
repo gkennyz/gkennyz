@@ -3,7 +3,7 @@ I'm a Computer Science student, and i like to use Linux and i'm studying Cyberse
 
 ## 👤 About me
 - I use and configure Linux in my daily life
-- Likes Cybersecurity and T.I area
+- I'm interested in Cybersecurity and the IT field
 - English B1, Spanish A2 and currently learning Japanese
 
 ## 📂 Projects

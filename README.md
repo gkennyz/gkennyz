@@ -1,9 +1,9 @@
 # Hi, I'm Gabriel Kennedy 👋
-Computer Science | Linux | Cybersecurity
+I'm a Computer Science student, and i like to use Linux and i'm studying Cybersecurity
 
 ## 👤 About me
 - I use and configure Linux in my daily life
-- Studying Cybersecurity
+- Likes Cybersecurity
 - English B1, Spanish A2 and currently learning Japanese
 
 ## 📂 Projects

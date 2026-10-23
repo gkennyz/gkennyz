@@ -2,7 +2,7 @@
 I'm a Computer Science student, and i like to use Linux and i'm studying Cybersecurity
 
 ## 👤 About me
-- I use and configure Linux in my daily life
+- Experience configuring Linux desktop environments
 - I'm interested in Cybersecurity and the IT field
 - English B1, Spanish A2 and currently learning Japanese
 

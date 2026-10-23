@@ -1,5 +1,5 @@
 # Hi, I'm Gabriel Kennedy 👋
-**Computer Science** student, Linux and Cybersecurity enthusiast
+Computer Science | Linux | Cybersecurity
 
 ## 👤 About me
 - I use and configure Linux in my daily life
